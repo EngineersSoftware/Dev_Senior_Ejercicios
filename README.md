@@ -1,8 +1,8 @@
-## Ejercicio 1:
+## [Ejercicio 1](https://github.com/EngineersSoftware/Dev_Senior_Ejercicios_Clase02/blob/main/SaludoPersonal.java):
 
 > Usando como ejemplo el archivo HolaMundo, crea un archivo llamado SaludoPersonal que imprima: Cesar, bienvenido al curso de Programación en Java!!!
 
-## Ejercicio 2:
+## [Ejercicio 2]:
 
 > Escriba un archivo llamado ImprimirCara que imprima una cara usando caracteres de texto.
 

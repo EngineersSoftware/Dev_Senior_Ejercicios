@@ -7,24 +7,13 @@ Ejercicio 2:
 
 Escriba un archivo llamado ImprimirCara que imprima una cara usando caracteres de texto.
 
- @@@@@@@
-@| O O |@
-(|  ^  |)
- | [_] |
- +-----+
 
 --------------------------------------------------
 Ejercicio 3:
 
 Escriba un archivo llamado ImprimirDiamante que imprima una cara usando caracteres de texto.
 
-   *
-  ***
- *****
-*******
- *****
-  ***
-   *
+
 
 ---------------------------------------------------------
 Ejercicio 4.
